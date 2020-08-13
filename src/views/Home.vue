@@ -36,7 +36,6 @@
                   </v-col>
                   <v-col cols="12" md="8">
                     <v-card>
-<<<<<<< HEAD
                       <v-list>
                         <v-list-item>
                           <v-list-item-avatar color="blue">
@@ -140,21 +139,6 @@
                         <div>Up to 2 million dollars</div>
                         <div>Money the next date. Rate</div>
                       </v-card-text>
-=======
-                      <v-list-item>
-                        <v-list-item-avatar color="blue">
-                          <v-icon dark>fas fa-car</v-icon>
-                        </v-list-item-avatar>
-                        <v-list-item-content>
-                          <v-list-item-title>
-                            Auto & Transport
-                          </v-list-item-title>
-                          <v-list-item-subtitle
-                            >$ 700 left</v-list-item-subtitle
-                          >
-                        </v-list-item-content>
-                      </v-list-item>
->>>>>>> e909403e46609b0a8b8a8b594b5a781ebbd08c4e
                     </v-card>
                   </v-col>
                 </v-row>
@@ -163,7 +147,6 @@
             <v-col cols="12" md="4">
               <v-container>
                 <v-row>
-<<<<<<< HEAD
                   <v-col cols="12" md="12">
                     <v-list-item>
                       <v-list-item-avatar>
@@ -266,9 +249,6 @@
                       </v-card>
                     </v-col>
                   </v-col>
-=======
-                  <v-col cols="12" md="12"></v-col>
->>>>>>> e909403e46609b0a8b8a8b594b5a781ebbd08c4e
                 </v-row>
               </v-container>
             </v-col>
