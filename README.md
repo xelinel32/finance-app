@@ -1,5 +1,7 @@
 # finance-app
 
+![finance-app](finance-app.png)
+
 ## Project setup
 ```
 npm install
